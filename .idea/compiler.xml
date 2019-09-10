@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Blog" />
         <module name="BlogM" />
+        <module name="git 测试" />
       </profile>
     </annotationProcessing>
   </component>
